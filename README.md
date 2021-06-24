@@ -4,7 +4,6 @@
 
 
 This code (code.zip) is a simple (not speed optimized)  implementation of  DTEC method proposed in [1]. 
-[1] C. Panagiotakis, H. Papadakis, A. Papagrigoriou and P. Fragopoulou, Improving Recommender Systems via a Dual Training Error based Correction Approach,   Expert Systems with Applications, 2021. 
 
 You can find more details in 
 https://sites.google.com/site/costaspanagiotakis/research/scor-dtec 
